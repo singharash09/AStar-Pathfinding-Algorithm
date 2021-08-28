@@ -37,7 +37,6 @@ Each road has a cost, if the road is between:
 ![complicatedResult](img/complicatedResult.png)
 
 
-
 ## **Instructions**
 - Before starting the program, make sure to activate the virtual environment in the terminal by the command:</br>
 `source env/bin/activate`
