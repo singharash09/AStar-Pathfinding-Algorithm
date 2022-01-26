@@ -1,7 +1,4 @@
 # A STAR ALGORITHM
-### By Arash Manpreet Singh
-
-
 Implemented the A* Algorithm to find the shortest path between 2 points. <br /><br />
 The A* Algorithm is similar to Dijikstra's Algorithm. However, the A* Algorithm makes use of some sort of admissible heuristic function, so that each vertex in the graph knows how long it will take to get to the goal without visiting the vertex.
 
